@@ -18,4 +18,4 @@ L.geoJson(areas, {
 	onEachFeature: basement
 }).addTo(map);
 
-map.addLayer(googleLayer);
+// map.addLayer(googleLayer);
